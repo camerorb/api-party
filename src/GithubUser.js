@@ -45,4 +45,5 @@ class GithubUser extends Component {
     )
   }
 }
+
 export default GithubUser
